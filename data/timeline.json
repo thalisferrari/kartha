@@ -1,0 +1,424 @@
+{
+  "config": {
+    "couple_name_1": "Thalis",
+    "couple_name_2": "Karoline",
+    "site_title": "Nossa História de Amor",
+    "hero_tagline": "Uma história escrita a dois",
+    "hero_subtitle": "Cada momento ao seu lado é um capítulo que eu nunca quero que termine",
+    "closing_message": "E essa história continua sendo escrita todos os dias, com cada sorriso, cada abraço e cada 'eu te amo'. Você é o melhor capítulo da minha vida.",
+    "start_date": "2025-05-20"
+  },
+  "music": [
+    {
+      "title": "Nada normal",
+      "artist": "Victor e Leo",
+      "src": "/music/nada-normal.mp3"
+    }
+  ],
+  "events": [
+    {
+      "id": "primeiro-encontro",
+      "date": "2025-03-18",
+      "title": "Nosso Primeiro Encontro",
+      "subtitle": "O dia em que tudo começou",
+      "description": "Bom, apesar de não ser um 'encontro' oficial, foi o primeiro dia em que a gente se viu, a primeira aula de teatro que fizemos juntos, não fazia idea do que viria pela frente.",
+      "icon": "star",
+      "media": [],
+      "location": "Teatro InsPirados",
+      "color_accent": "#FF6B9D"
+    },
+    {
+      "id": "primeiro-beijo",
+      "date": "2025-05-20",
+      "title": "Primeiro beijo",
+      "subtitle": "O toque mais suave",
+      "description": "Acho que tu também lembra, nervosismo, empolgação, borboletas no estômago. Depois de horas, dias, várias semanas conversando e sonhando, o primeiro beijo.",
+      "icon": "heart",
+      "media": [],
+      "location": "Carro",
+      "color_accent": "#FF6B9D",
+      "highlight": true
+    },
+    {
+      "id": "montagem",
+      "date": "2025-05-29",
+      "title": "Montagem",
+      "subtitle": "Jogando pro universo",
+      "description": "Eu tava querendo tanto que a gente ficasse junto, que fiz uma montagem da gente pra aumentar o grau de visualização de nós como casal.",
+      "icon": "sparkles",
+      "media": [
+        {
+          "type": "image",
+          "src": "/images/montagem.jpeg",
+          "alt": "Montagem"
+        }
+      ],
+      "location": "Longe mas nem tanto"
+    },
+    {
+      "id": "primeira-foto-beijo",
+      "date": "2025-05-30",
+      "title": "Primeiro registro",
+      "subtitle": "O começo de muito",
+      "description": "É o primeiro registro da nossa intimidade, que deu sequência a muito mais que isso.",
+      "icon": "heart",
+      "media": [
+        {
+          "type": "image",
+          "src": "/images/primeira-foto-beijo.jpeg",
+          "alt": "Primeira foto do beijo"
+        }
+      ],
+      "location": "Apê",
+      "highlight": true
+    },
+    {
+      "id": "primeira-janta",
+      "date": "2025-06-01",
+      "title": "Primeira janta",
+      "subtitle": "Com Pilico",
+      "description": "A nossa primeira janta no apê, fiz aquele strogonoff maravilhoso com quejo podre de cabrita, apartamento ficou fedendo umas duas semandas depois disso, mas valeu muito a pena!",
+      "icon": "camera",
+      "media": [
+        {
+          "type": "image",
+          "src": "/images/primeira-janta.jpeg",
+          "alt": "Primeira janta"
+        }
+      ],
+      "location": "Apê",
+      "color_accent": "#FFD700"
+    },
+    {
+      "id": "momento-especial",
+      "date": "2025-06-07",
+      "title": "Música e felicidade",
+      "subtitle": "Com um galo de bônus",
+      "description": "Foi a nossa primeira noite em família, eu, tu, a Manu e o Pilico. A gente cantou junto, fez palhaçada, riu muito, comemos pizza e assistimos O Estranho Mundo de Jack no chão da cozinha. Nessa noite eu levei a primeira 'porrada' do amor, uma guitarrada na cabeça AHUSAHUHUS, te amo.",
+      "icon": "music",
+      "media": [
+        {
+          "type": "image",
+          "src": "/images/noite-familia.jpeg",
+          "alt": "Noite em família"
+        }
+      ],
+      "location": "Apê"
+    },
+    {
+      "id": "visitando-futuro",
+      "date": "2025-06-09",
+      "title": "Visitando o futuro",
+      "subtitle": "Em busca do nosso primeiro cantinho",
+      "description": "Emoções em alto, desejo, saudade e uma enorme vontade de passar o resto da vida juntos. Um objetivo principal em comum, dividir o mesmo lar.",
+      "icon": "map-pin",
+      "media": [
+        {
+          "type": "video",
+          "src": "/videos/visita-casa.mp4",
+          "alt": "Visita na casa"
+        }
+      ],
+      "location": "Futuro lar",
+      "highlight": true
+    },
+    {
+      "id": "almoco-casa",
+      "date": "2025-06-09",
+      "title": "Almoçando em casa",
+      "subtitle": "Tornando realidade",
+      "description": "E para aumentar a chance de tornar real, por que não almoçar na nossa futura casa?",
+      "icon": "sparkles",
+      "media": [
+        {
+          "type": "image",
+          "src": "/images/almoco-casa.jpeg",
+          "alt": "Almoço na casa"
+        }
+      ],
+      "location": "Futuro lar"
+    },
+    {
+      "id": "primeiro-presente",
+      "date": "2025-06-12",
+      "title": "O primeiro presente",
+      "subtitle": "Dia dos namorados",
+      "description": "Nunca vou me esquecer, uma caneca com nossa primeira foto beijando, com a letra da música dizendo que 'nós' era real e cheia dos chocolates que te disse que gostava, tu é incrível!",
+      "icon": "gift",
+      "media": [
+        {
+          "type": "image",
+          "src": "/images/primeiro-presente.jpeg",
+          "alt": "Primeiro presente"
+        }
+      ],
+      "location": "Apê"
+    },
+    {
+      "id": "role-sitio",
+      "date": "2025-06-16",
+      "title": "O rolê no sítio",
+      "subtitle": "Conhecendo a Hey Folquis",
+      "description": "Eu só ia te levar, minha intenção era esperar no carro ou então voltar pra casa e te buscar no fim do dia. Foi muito mais que isso, tua companhia me fez fazer algo que não faria, que não pensava que fosse me fazer bem. Ainda conheci um pouco do teu trabalho, a Hey Folquis! Um lugar muito bonito, na melhor companhia, que me faz muito feliz, e que roubou uma berga!",
+      "icon": "map-pin",
+      "media": [
+        {
+          "type": "image",
+          "src": "/images/nos-sitio.jpeg",
+          "alt": "Nós no sítio"
+        },
+        {
+          "type": "image",
+          "src": "/images/roubando-berga.jpeg",
+          "alt": "Roubando berga"
+        }
+      ],
+      "location": "Sítio"
+    },
+    {
+      "id": "sonho-real",
+      "date": "2025-07-24",
+      "title": "O sonho é real",
+      "subtitle": "Enfim nosso lar",
+      "description": "Depois de visitar a casa, se imaginar morando juntos, almoçando nela, rezando pra acontecer, a gente finalmente conseguiu, 'casamos'. E não apenas a gente ficou muito feliz, como também a Mena e o Meno!",
+      "icon": "heart",
+      "media": [
+        {
+          "type": "image",
+          "src": "/images/nos-manu.jpeg",
+          "alt": "Nós e Mena"
+        },
+        {
+          "type": "image",
+          "src": "/images/nos-pilico.jpeg",
+          "alt": "Nós e Meno"
+        }
+      ],
+      "location": "Novo lar",
+      "highlight": true
+    },
+    {
+      "id": "hospital",
+      "date": "2025-08-05",
+      "title": "Na saúde e na doença",
+      "subtitle": "Sempre juntos",
+      "description": "Ainda não casamos oficialmente, mas eu vou estar contigo sempre, é meu desejo, até quando tu passar mal, precisar ir pro hospital, mesmo odiando o ambiente, eu vou estar contigo!",
+      "icon": "camera",
+      "media": [
+        {
+          "type": "image",
+          "src": "/images/nos-hospital.jpeg",
+          "alt": "Nós no hospital"
+        }
+      ],
+      "location": "Hospital"
+    },
+    {
+      "id": "role-hey-folquis",
+      "date": "2025-08-08",
+      "title": "Rolê com a Hey Folquis",
+      "subtitle": "Colegas na vida e no trabalho",
+      "description": "Até isso eu fiz, virei professor de programação, pra crianças. Beleza que não tive muitos alunos, nós da computação somos raros. Ainda assim, foi mais uma coisa que fiz pra ficar mais perto de ti, além de me provar capaz. Foi uma boa experiência!",
+      "icon": "map-pin",
+      "media": [
+        {
+          "type": "image",
+          "src": "/images/role-hey-folquis.jpeg",
+          "alt": "Rolê da Hey Folquis"
+        }
+      ],
+      "location": "Terra da fantasia"
+    },
+    {
+      "id": "papai-bonus",
+      "date": "2025-08-11",
+      "title": "Pai?",
+      "subtitle": "Papai bônus!",
+      "description": "Quando eu decidi viver contigo eu decidi viver também com eles. Às vezes pode parecer que não sou muito 'chegado' com eles, a verdade é que eu sou assim, nem por isso vou deixar de amar eles, que me consideram muito!",
+      "icon": "gift",
+      "media": [
+        {
+          "type": "image",
+          "src": "/images/presente-papai-bonus.jpeg",
+          "alt": "Presente das crianças"
+        }
+      ],
+      "location": "Lar",
+      "highlight": true
+    },
+    {
+      "id": "familia",
+      "date": "2025-08-25",
+      "title": "Família",
+      "subtitle": "Amor e felicidade",
+      "description": "Vocês são mais pra mim do que pode parecer, são o lugar que eu quero estar depois de um dia de trabalho, com quem eu não econimizo energias pra me importar, me preocupar, e amar!",
+      "icon": "heart",
+      "media": [
+        {
+          "type": "image",
+          "src": "/images/familia.jpeg",
+          "alt": "Família"
+        }
+      ],
+      "location": "Lar"
+    },
+    {
+      "id": "niver-mena",
+      "date": "2025-09-06",
+      "title": "Niver da Manu",
+      "subtitle": "Gritaria e muita música",
+      "description": "Foi a noite em que fizemos a festa de aniversário da Manu, com a casa que não é muito grande, mas tava cheia com a família e as amigas dela, acredito que ela tenha gostado muito e aproveitado bastante, até por isso que nem apareceu na foto!",
+      "icon": "sparkles",
+      "media": [
+        {
+          "type": "image",
+          "src": "/images/niver-mena.jpeg",
+          "alt": "Niver da Manu"
+        }
+      ],
+      "location": "Lar"
+    },
+    {
+      "id": "teu-cantinho",
+      "date": "2025-11-01",
+      "title": "Teu cantinho",
+      "subtitle": "Rede e plantas",
+      "description": "Demorou um pouco pra tu se sentir em casa, eu tava bastante preocupado, por que a minha casa também é a tua, e tu precisa se sentir assim, aos poucos tu foi montando um espaço que hoje usa todos os dias, e eu amo ver o quanto tu tá feliz nele!",
+      "icon": "star",
+      "media": [
+        {
+          "type": "image",
+          "src": "/images/no-cantinho-1.jpeg",
+          "alt": "Cantinho 1"
+        },
+        {
+          "type": "image",
+          "src": "/images/no-cantinho-2.jpeg",
+          "alt": "Cantinho 2"
+        },
+        {
+          "type": "image",
+          "src": "/images/no-cantinho-3.jpeg",
+          "alt": "Cantinho 3"
+        }
+      ],
+      "location": "Cantinho da Neni"
+    },
+    {
+      "id": "red-container",
+      "date": "2025-12-16",
+      "title": "Primeiro Red Container",
+      "subtitle": "No Red",
+      "description": "Já havíamos pedido vários, por que o hambúrger é uma delícia, que nem tu! Nessa noite a gente mudou um pouco o plano, e comemos em público.",
+      "icon": "map-pin",
+      "media": [
+        {
+          "type": "image",
+          "src": "/images/no-red.jpeg",
+          "alt": "No Red"
+        }
+      ],
+      "location": "Red Container"
+    },
+    {
+      "id": "encerrando-teatro",
+      "date": "2025-12-19",
+      "title": "Fim do começo",
+      "subtitle": "Apresentação final",
+      "description": "Depois de um ano de ensaios, compromisso, dinheiro e energia investida, finalmente chegou o momento de encerrarmos o que fez a gente começar, foi o fim do começo, do capítulo inicial da nossa história!",
+      "icon": "sparkles",
+      "media": [
+        {
+          "type": "image",
+          "src": "/images/teatro-1.jpeg",
+          "alt": "Teatro 1"
+        },
+        {
+          "type": "image",
+          "src": "/images/teatro-2.jpeg",
+          "alt": "Teatro 2"
+        },
+        {
+          "type": "image",
+          "src": "/images/teatro-3.jpeg",
+          "alt": "Teatro 3"
+        },
+        {
+          "type": "image",
+          "src": "/images/teatro-4.jpeg",
+          "alt": "Teatro 4"
+        },
+        {
+          "type": "image",
+          "src": "/images/teatro-5.jpeg",
+          "alt": "Teatro 5"
+        }
+      ],
+      "location": "Teatro",
+      "highlight": true
+    },
+    {
+      "id": "macumba",
+      "date": "2025-12-21",
+      "title": "Macumba",
+      "subtitle": "Com a minha família",
+      "description": "Não só eu te amo muito, como minha família também, te amam desde que te conheceram, te acolheram na macumba, e te recebem com muita alegria em casa!",
+      "icon": "map-pin",
+      "media": [
+        {
+          "type": "image",
+          "src": "/images/macumba.jpeg",
+          "alt": "Macumba"
+        }
+      ],
+      "location": "Terreira"
+    },
+    {
+      "id": "virada",
+      "date": "2025-12-31",
+      "title": "Juntos na virada",
+      "subtitle": "Ano novo em família",
+      "description": "Tu não ia ficar, cada um ia passar o ano novo com sua família. Isso ter acontecido foi incrível, rimos muito, comemos muito, inclusive por isso que o Pilico não tá na foto, provavelmente nesse momento estava derretendo um cachorro-quente. O primeiro reveillon de todos os próximos juntos!",
+      "icon": "heart",
+      "media": [
+        {
+          "type": "image",
+          "src": "/images/ano-novo.jpeg",
+          "alt": "Ano novo"
+        }
+      ],
+      "location": "Casa da mãe"
+    },
+    {
+      "id": "futuro-lar",
+      "date": "2026-01-05",
+      "title": "O próximo lar",
+      "subtitle": "Mais um futuro a tornar real",
+      "description": "Bom, é o que estamos planejando agora, dar tudo que podemos da gente pra conseguir a nossa casa, e transformar ela do jeito que a gente quer, acredito que, do mesmo modo que fizemos com o lugar que estamos, é questão de tempo até conseguirmos mais essa realização!",
+      "icon": "star",
+      "media": [
+        {
+          "type": "image",
+          "src": "/images/futuro-lar-1.jpeg",
+          "alt": "Futuro lar 1"
+        },
+        {
+          "type": "image",
+          "src": "/images/futuro-lar-2.jpeg",
+          "alt": "Futuro lar 2"
+        }
+      ],
+      "location": "Futuro lar"
+    },
+    {
+      "id": "proxim-capitulo",
+      "date": "2026-02-07",
+      "title": "Próximo capítulo",
+      "subtitle": "Carregando...",
+      "description": "Carregando...",
+      "icon": "calendar",
+      "media": [],
+      "location": "Vida"
+    }
+  ]
+}
